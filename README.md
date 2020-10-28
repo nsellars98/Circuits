@@ -11,7 +11,7 @@ The starting point for this app ("main") models a few different circuit combinat
 
 All core app files can be located in the "src" folder.
 
-Proof of test cases can be found in the corresponding Word document. Additionally, models of the circuits found in the code are used for reference and hand-worked calculations for the resistances are provided to show the code works as expected.
+Proof of test cases can be found in the corresponding Word document along with screenshots showing the code when running. Additionally, models of the circuits found in the code are used for reference and hand-worked calculations for the resistances are provided to show the code works as expected.
 
 This app was developed with JetBrains IntelliJ IDEA (various versions).
 
